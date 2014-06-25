@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Scorecard()
+comment1.params=Carsubject
+comment1.target=Scorecard(OurCar)
+comment2.params=
+comment2.target=void\ update()
+numComments=3

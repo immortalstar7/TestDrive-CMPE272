@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LifeTracker()
+comment1.params=c
+comment1.target=LifeTracker(LifeIncrement)
+comment2.params=life
+comment2.target=void\ showMessage(int)
+comment3.params=
+comment3.target=int\ lifeincrement()
+numComments=4

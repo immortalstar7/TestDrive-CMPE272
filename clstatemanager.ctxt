@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=clstatemanager()
+comment1.params=
+comment1.target=java.lang.String\ change_state()
+comment2.params=stat
+comment2.target=java.lang.String\ setstate(java.lang.String)
+numComments=3

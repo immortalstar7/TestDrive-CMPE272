@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=stateToSave
+comment0.target=Memento(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getSavedState()
+numComments=2

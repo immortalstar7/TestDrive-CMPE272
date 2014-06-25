@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=CarUpgrade(Component)
+comment1.params=
+comment1.target=int\ operation()
+comment2.params=reply
+comment2.target=int\ addedBehavior(int)
+numComments=3

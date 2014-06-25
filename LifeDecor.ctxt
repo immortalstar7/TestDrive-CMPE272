@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=LifeDecor(LifeIncrement)
+comment1.params=
+comment1.target=int\ lifeincrement()
+comment2.params=
+comment2.target=int\ addedBehavior()
+numComments=3
